@@ -21,7 +21,7 @@ Gemfile.lock
 # if you would like to commit your objects to github, delete the line below!
 
 # Ignore test folder
-test
+test/
 
 
 #ignore bootstrap
